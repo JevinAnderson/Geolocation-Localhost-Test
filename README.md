@@ -8,3 +8,4 @@ Quick test to verify geolocation in localhost
 ## Usage steps
 1. npm run build
 2. node server/server.js
+3. Vist [http://localhost:1234/](http://localhost:1234/) in your browser
