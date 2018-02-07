@@ -16,7 +16,5 @@ app.listen(PORT, error => {
     process.exit(-1);
   }
 
-  console.log(
-    `Application started. Go to http://127.0.0.1:${PORT} in your browser.`
-  );
+  console.log(`Application started. Go to http://127.0.0.1:${PORT} in your browser.`);
 });
